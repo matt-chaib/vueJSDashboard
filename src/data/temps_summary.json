@@ -1,0 +1,1142 @@
+[
+  {
+    "City": "Abidjan",
+    "YearAvg": 26.1359
+  },
+  {
+    "City": "Abilene",
+    "YearAvg": 18.5134
+  },
+  {
+    "City": "Abu Dhabi",
+    "YearAvg": 27.2994
+  },
+  {
+    "City": "Addis Ababa",
+    "YearAvg": 12.8467
+  },
+  {
+    "City": "Akron Canton",
+    "YearAvg": 11.3991
+  },
+  {
+    "City": "Albany",
+    "YearAvg": 9.8664
+  },
+  {
+    "City": "Albuquerque",
+    "YearAvg": 14.0924
+  },
+  {
+    "City": "Algiers",
+    "YearAvg": 16.8317
+  },
+  {
+    "City": "Allentown",
+    "YearAvg": 12.4642
+  },
+  {
+    "City": "Almaty",
+    "YearAvg": 10.3444
+  },
+  {
+    "City": "Amarillo",
+    "YearAvg": 14.1131
+  },
+  {
+    "City": "Amman",
+    "YearAvg": 16.9475
+  },
+  {
+    "City": "Amsterdam",
+    "YearAvg": 9.99
+  },
+  {
+    "City": "Anchorage",
+    "YearAvg": 6.0087
+  },
+  {
+    "City": "Ankara",
+    "YearAvg": 10.183
+  },
+  {
+    "City": "Antananarivo",
+    "YearAvg": 18.037
+  },
+  {
+    "City": "Ashabad",
+    "YearAvg": 16.9416
+  },
+  {
+    "City": "Asheville",
+    "YearAvg": 14.5947
+  },
+  {
+    "City": "Atlanta",
+    "YearAvg": 18.6495
+  },
+  {
+    "City": "Atlantic City",
+    "YearAvg": 13.6728
+  },
+  {
+    "City": "Auckland",
+    "YearAvg": 14.411
+  },
+  {
+    "City": "Austin",
+    "YearAvg": 20.4376
+  },
+  {
+    "City": "Baltimore",
+    "YearAvg": 14.4227
+  },
+  {
+    "City": "Bangui",
+    "YearAvg": 17.1403
+  },
+  {
+    "City": "Banjul",
+    "YearAvg": 24.0877
+  },
+  {
+    "City": "Barcelona",
+    "YearAvg": 15.3995
+  },
+  {
+    "City": "Beijing",
+    "YearAvg": 12.1909
+  },
+  {
+    "City": "Beirut",
+    "YearAvg": 19.9221
+  },
+  {
+    "City": "Belfast",
+    "YearAvg": 8.9065
+  },
+  {
+    "City": "Belgrade",
+    "YearAvg": 12.4507
+  },
+  {
+    "City": "Belize City",
+    "YearAvg": 26.0271
+  },
+  {
+    "City": "Bern",
+    "YearAvg": 8.7361
+  },
+  {
+    "City": "Bilbao",
+    "YearAvg": 13.9068
+  },
+  {
+    "City": "Billings",
+    "YearAvg": 7.7918
+  },
+  {
+    "City": "Birmingham",
+    "YearAvg": 18.625
+  },
+  {
+    "City": "Bishkek",
+    "YearAvg": 11.5306
+  },
+  {
+    "City": "Bismarck",
+    "YearAvg": 4.8291
+  },
+  {
+    "City": "Bissau",
+    "YearAvg": 25.2942
+  },
+  {
+    "City": "Bogota",
+    "YearAvg": 12.8265
+  },
+  {
+    "City": "Boise",
+    "YearAvg": 11.5253
+  },
+  {
+    "City": "Bombay (Mumbai)",
+    "YearAvg": 26.5916
+  },
+  {
+    "City": "Bordeaux",
+    "YearAvg": 13.3262
+  },
+  {
+    "City": "Boston",
+    "YearAvg": 11.7399
+  },
+  {
+    "City": "Brasilia",
+    "YearAvg": 21.8539
+  },
+  {
+    "City": "Bratislava",
+    "YearAvg": 10.9638
+  },
+  {
+    "City": "Brazzaville",
+    "YearAvg": 24.5352
+  },
+  {
+    "City": "Bridgeport",
+    "YearAvg": 11.9405
+  },
+  {
+    "City": "Brisbane",
+    "YearAvg": 19.4452
+  },
+  {
+    "City": "Brownsville",
+    "YearAvg": 24.161
+  },
+  {
+    "City": "Brussels",
+    "YearAvg": 10.0075
+  },
+  {
+    "City": "Bucharest",
+    "YearAvg": 11.691
+  },
+  {
+    "City": "Budapest",
+    "YearAvg": 10.8441
+  },
+  {
+    "City": "Buenos Aires",
+    "YearAvg": 15.7817
+  },
+  {
+    "City": "Buffalo",
+    "YearAvg": 8.977
+  },
+  {
+    "City": "Burlington",
+    "YearAvg": 8.1534
+  },
+  {
+    "City": "Cairo",
+    "YearAvg": 21.6627
+  },
+  {
+    "City": "Calcutta",
+    "YearAvg": 24.5618
+  },
+  {
+    "City": "Canberra",
+    "YearAvg": 12.9236
+  },
+  {
+    "City": "Capetown",
+    "YearAvg": 15.7776
+  },
+  {
+    "City": "Caracas",
+    "YearAvg": 21.6658
+  },
+  {
+    "City": "Caribou",
+    "YearAvg": 4.4694
+  },
+  {
+    "City": "Casper",
+    "YearAvg": 6.3661
+  },
+  {
+    "City": "Charleston",
+    "YearAvg": 16.7739
+  },
+  {
+    "City": "Charlotte",
+    "YearAvg": 17.5568
+  },
+  {
+    "City": "Chattanooga",
+    "YearAvg": 17.5012
+  },
+  {
+    "City": "Chengdu",
+    "YearAvg": 16.5826
+  },
+  {
+    "City": "Chennai (Madras)",
+    "YearAvg": 28.625
+  },
+  {
+    "City": "Cheyenne",
+    "YearAvg": 7.5861
+  },
+  {
+    "City": "Chicago",
+    "YearAvg": 9.8332
+  },
+  {
+    "City": "Cincinnati",
+    "YearAvg": 13.2916
+  },
+  {
+    "City": "Cleveland",
+    "YearAvg": 11.5489
+  },
+  {
+    "City": "Colombo",
+    "YearAvg": 26.0396
+  },
+  {
+    "City": "Colorado Springs",
+    "YearAvg": 9.7029
+  },
+  {
+    "City": "Columbia",
+    "YearAvg": 18.7472
+  },
+  {
+    "City": "Columbus",
+    "YearAvg": 16.1376
+  },
+  {
+    "City": "Conakry",
+    "YearAvg": 16.8974
+  },
+  {
+    "City": "Concord",
+    "YearAvg": 3.437
+  },
+  {
+    "City": "Copenhagen",
+    "YearAvg": 8.2583
+  },
+  {
+    "City": "Corpus Christi",
+    "YearAvg": 22.7056
+  },
+  {
+    "City": "Cotonou",
+    "YearAvg": 26.3499
+  },
+  {
+    "City": "Dakar",
+    "YearAvg": 23.0906
+  },
+  {
+    "City": "Dallas Ft Worth",
+    "YearAvg": 18.9871
+  },
+  {
+    "City": "Damascus",
+    "YearAvg": 16.3954
+  },
+  {
+    "City": "Dar Es Salaam",
+    "YearAvg": 25.386
+  },
+  {
+    "City": "Dayton",
+    "YearAvg": 12.4279
+  },
+  {
+    "City": "Delhi",
+    "YearAvg": 23.053
+  },
+  {
+    "City": "Denver",
+    "YearAvg": 9.5965
+  },
+  {
+    "City": "Des Moines",
+    "YearAvg": 9.7437
+  },
+  {
+    "City": "Detroit",
+    "YearAvg": 10.1417
+  },
+  {
+    "City": "Dhahran",
+    "YearAvg": 26.4848
+  },
+  {
+    "City": "Doha",
+    "YearAvg": 27.4365
+  },
+  {
+    "City": "Dubai",
+    "YearAvg": 27.9572
+  },
+  {
+    "City": "Dublin",
+    "YearAvg": 8.5478
+  },
+  {
+    "City": "Duluth",
+    "YearAvg": 4.5907
+  },
+  {
+    "City": "Dusanbe",
+    "YearAvg": 15.0944
+  },
+  {
+    "City": "El Paso",
+    "YearAvg": 19.6336
+  },
+  {
+    "City": "Elkins",
+    "YearAvg": 11.5242
+  },
+  {
+    "City": "Erie",
+    "YearAvg": 10.5648
+  },
+  {
+    "City": "Eugene",
+    "YearAvg": 11.5364
+  },
+  {
+    "City": "Evansville",
+    "YearAvg": 13.9075
+  },
+  {
+    "City": "Fairbanks",
+    "YearAvg": 0.6371
+  },
+  {
+    "City": "Fargo",
+    "YearAvg": 4.4044
+  },
+  {
+    "City": "Flint",
+    "YearAvg": 9.2053
+  },
+  {
+    "City": "Fort Smith",
+    "YearAvg": 16.6921
+  },
+  {
+    "City": "Fort Wayne",
+    "YearAvg": 10.6718
+  },
+  {
+    "City": "Fresno",
+    "YearAvg": 18.9409
+  },
+  {
+    "City": "Geneva",
+    "YearAvg": 10.4373
+  },
+  {
+    "City": "Goodland",
+    "YearAvg": 8.7753
+  },
+  {
+    "City": "Grand Junction",
+    "YearAvg": 11.4365
+  },
+  {
+    "City": "Grand Rapids",
+    "YearAvg": 9.211
+  },
+  {
+    "City": "Great Falls",
+    "YearAvg": 5.5314
+  },
+  {
+    "City": "Green Bay",
+    "YearAvg": 7.321
+  },
+  {
+    "City": "Greensboro",
+    "YearAvg": 16.0215
+  },
+  {
+    "City": "Guadalajara",
+    "YearAvg": 17.2356
+  },
+  {
+    "City": "Guangzhou",
+    "YearAvg": 22.3379
+  },
+  {
+    "City": "Guatemala City",
+    "YearAvg": 18.3099
+  },
+  {
+    "City": "Guayaquil",
+    "YearAvg": 23.2377
+  },
+  {
+    "City": "Hanoi",
+    "YearAvg": 23.5186
+  },
+  {
+    "City": "Hartford Springfield",
+    "YearAvg": 10.7763
+  },
+  {
+    "City": "Havana",
+    "YearAvg": 23.2566
+  },
+  {
+    "City": "Helena",
+    "YearAvg": 5.8531
+  },
+  {
+    "City": "Helsinki",
+    "YearAvg": 5.2936
+  },
+  {
+    "City": "Hong Kong",
+    "YearAvg": 23.5632
+  },
+  {
+    "City": "Honolulu",
+    "YearAvg": 26.0761
+  },
+  {
+    "City": "Houston",
+    "YearAvg": 21.2467
+  },
+  {
+    "City": "Huntsville",
+    "YearAvg": 17.4521
+  },
+  {
+    "City": "Indianapolis",
+    "YearAvg": 12.076
+  },
+  {
+    "City": "Islamabad",
+    "YearAvg": -29.4618
+  },
+  {
+    "City": "Istanbul",
+    "YearAvg": 15.3394
+  },
+  {
+    "City": "Jackson",
+    "YearAvg": 18.6971
+  },
+  {
+    "City": "Jacksonville",
+    "YearAvg": 21.2323
+  },
+  {
+    "City": "Jakarta",
+    "YearAvg": 27.2274
+  },
+  {
+    "City": "Juneau",
+    "YearAvg": 6.9329
+  },
+  {
+    "City": "Kampala",
+    "YearAvg": 19.1347
+  },
+  {
+    "City": "Kansas City",
+    "YearAvg": 12.1995
+  },
+  {
+    "City": "Karachi",
+    "YearAvg": 25.2776
+  },
+  {
+    "City": "Katmandu",
+    "YearAvg": 17.0636
+  },
+  {
+    "City": "Kiev",
+    "YearAvg": 9.3397
+  },
+  {
+    "City": "Knoxville",
+    "YearAvg": 16.1597
+  },
+  {
+    "City": "Kuala Lumpur",
+    "YearAvg": 26.6562
+  },
+  {
+    "City": "Kuwait",
+    "YearAvg": 25.0785
+  },
+  {
+    "City": "La Paz",
+    "YearAvg": 6.7396
+  },
+  {
+    "City": "Lagos",
+    "YearAvg": 24.984
+  },
+  {
+    "City": "Lake Charles",
+    "YearAvg": 20.9259
+  },
+  {
+    "City": "Lansing",
+    "YearAvg": 8.9438
+  },
+  {
+    "City": "Las Vegas",
+    "YearAvg": 20.9735
+  },
+  {
+    "City": "Lexington",
+    "YearAvg": 14.5808
+  },
+  {
+    "City": "Libreville",
+    "YearAvg": 25.326
+  },
+  {
+    "City": "Lincoln",
+    "YearAvg": 10.5933
+  },
+  {
+    "City": "Lisbon",
+    "YearAvg": 15.1636
+  },
+  {
+    "City": "Little Rock",
+    "YearAvg": 16.5875
+  },
+  {
+    "City": "Lome",
+    "YearAvg": 25.4486
+  },
+  {
+    "City": "London",
+    "YearAvg": 10.5589
+  },
+  {
+    "City": "Los Angeles",
+    "YearAvg": 17.4055
+  },
+  {
+    "City": "Louisville",
+    "YearAvg": 15.4779
+  },
+  {
+    "City": "Lubbock",
+    "YearAvg": 16.0811
+  },
+  {
+    "City": "Macon",
+    "YearAvg": 19.0986
+  },
+  {
+    "City": "Madison",
+    "YearAvg": 8.0723
+  },
+  {
+    "City": "Madrid",
+    "YearAvg": 14.4545
+  },
+  {
+    "City": "Managua",
+    "YearAvg": 26.1991
+  },
+  {
+    "City": "Manama",
+    "YearAvg": 26.6513
+  },
+  {
+    "City": "Manila",
+    "YearAvg": 26.9342
+  },
+  {
+    "City": "Maputo",
+    "YearAvg": 22.4479
+  },
+  {
+    "City": "Medford",
+    "YearAvg": 12.9665
+  },
+  {
+    "City": "Melbourne",
+    "YearAvg": 17.6866
+  },
+  {
+    "City": "Memphis",
+    "YearAvg": 17.3718
+  },
+  {
+    "City": "Mexico City",
+    "YearAvg": 16.6419
+  },
+  {
+    "City": "Miami Beach",
+    "YearAvg": 25.8026
+  },
+  {
+    "City": "Midland Odessa",
+    "YearAvg": 18.7002
+  },
+  {
+    "City": "Milan",
+    "YearAvg": 12.5454
+  },
+  {
+    "City": "Milwaukee",
+    "YearAvg": 8.9184
+  },
+  {
+    "City": "Minneapolis St. Paul",
+    "YearAvg": 7.398
+  },
+  {
+    "City": "Minsk",
+    "YearAvg": -11.4081
+  },
+  {
+    "City": "Mobile",
+    "YearAvg": 20.4405
+  },
+  {
+    "City": "Monterrey",
+    "YearAvg": 21.6656
+  },
+  {
+    "City": "Montgomery",
+    "YearAvg": 19.7422
+  },
+  {
+    "City": "Montvideo",
+    "YearAvg": 15.3003
+  },
+  {
+    "City": "Moscow",
+    "YearAvg": 6.0146
+  },
+  {
+    "City": "Munich",
+    "YearAvg": 9.0282
+  },
+  {
+    "City": "Muscat",
+    "YearAvg": 17.2356
+  },
+  {
+    "City": "Nairobi",
+    "YearAvg": 18.1531
+  },
+  {
+    "City": "Nashville",
+    "YearAvg": 16.7932
+  },
+  {
+    "City": "Nassau",
+    "YearAvg": 24.561
+  },
+  {
+    "City": "New Orleans",
+    "YearAvg": 22.0967
+  },
+  {
+    "City": "New York City",
+    "YearAvg": 13.3504
+  },
+  {
+    "City": "Newark",
+    "YearAvg": 13.2758
+  },
+  {
+    "City": "Niamey",
+    "YearAvg": 28.7174
+  },
+  {
+    "City": "Norfolk",
+    "YearAvg": 17.3102
+  },
+  {
+    "City": "North Platte",
+    "YearAvg": 8.8796
+  },
+  {
+    "City": "Oklahoma City",
+    "YearAvg": 15.0854
+  },
+  {
+    "City": "Omaha",
+    "YearAvg": 10.6365
+  },
+  {
+    "City": "Orlando",
+    "YearAvg": 23.223
+  },
+  {
+    "City": "Osaka",
+    "YearAvg": 16.6003
+  },
+  {
+    "City": "Oslo",
+    "YearAvg": 4.3387
+  },
+  {
+    "City": "Paducah",
+    "YearAvg": 14.942
+  },
+  {
+    "City": "Panama City",
+    "YearAvg": 25.3629
+  },
+  {
+    "City": "Paramaribo",
+    "YearAvg": 24.9469
+  },
+  {
+    "City": "Paris",
+    "YearAvg": 11.2268
+  },
+  {
+    "City": "Peoria",
+    "YearAvg": 11.0393
+  },
+  {
+    "City": "Perth",
+    "YearAvg": 17.7041
+  },
+  {
+    "City": "Philadelphia",
+    "YearAvg": 13.9333
+  },
+  {
+    "City": "Phoenix",
+    "YearAvg": 23.9595
+  },
+  {
+    "City": "Pittsburgh",
+    "YearAvg": 11.2921
+  },
+  {
+    "City": "Pocatello",
+    "YearAvg": 8.0228
+  },
+  {
+    "City": "Port au Prince",
+    "YearAvg": 22.9906
+  },
+  {
+    "City": "Portland",
+    "YearAvg": 10.4626
+  },
+  {
+    "City": "Prague",
+    "YearAvg": 8.8531
+  },
+  {
+    "City": "Pueblo",
+    "YearAvg": 11.3857
+  },
+  {
+    "City": "Pyongyang",
+    "YearAvg": 10.4403
+  },
+  {
+    "City": "Quebec",
+    "YearAvg": 2.8738
+  },
+  {
+    "City": "Rabat",
+    "YearAvg": 15.4064
+  },
+  {
+    "City": "Raleigh Durham",
+    "YearAvg": 16.616
+  },
+  {
+    "City": "Rangoon",
+    "YearAvg": 26.4823
+  },
+  {
+    "City": "Rapid City",
+    "YearAvg": 6.0813
+  },
+  {
+    "City": "Regina",
+    "YearAvg": 1.8376
+  },
+  {
+    "City": "Reno",
+    "YearAvg": 12.5381
+  },
+  {
+    "City": "Reykjavik",
+    "YearAvg": 4.4892
+  },
+  {
+    "City": "Rhode Island",
+    "YearAvg": 10.9635
+  },
+  {
+    "City": "Richmond",
+    "YearAvg": 15.8542
+  },
+  {
+    "City": "Riga",
+    "YearAvg": 7.1919
+  },
+  {
+    "City": "Rio de Janeiro",
+    "YearAvg": 23.6521
+  },
+  {
+    "City": "Riyadh",
+    "YearAvg": 25.3976
+  },
+  {
+    "City": "Roanoke",
+    "YearAvg": 15.0097
+  },
+  {
+    "City": "Rochester",
+    "YearAvg": 9.3275
+  },
+  {
+    "City": "Rockford",
+    "YearAvg": 9.3314
+  },
+  {
+    "City": "Rome",
+    "YearAvg": 15.1195
+  },
+  {
+    "City": "Sacramento",
+    "YearAvg": 16.1967
+  },
+  {
+    "City": "Salem",
+    "YearAvg": 11.6644
+  },
+  {
+    "City": "Salt Lake City",
+    "YearAvg": 11.8731
+  },
+  {
+    "City": "San Angelo",
+    "YearAvg": 19.0209
+  },
+  {
+    "City": "San Antonio",
+    "YearAvg": 20.7994
+  },
+  {
+    "City": "San Diego",
+    "YearAvg": 17.7447
+  },
+  {
+    "City": "San Francisco",
+    "YearAvg": 14.7846
+  },
+  {
+    "City": "San Jose",
+    "YearAvg": 21.483
+  },
+  {
+    "City": "Santo Domingo",
+    "YearAvg": 24.2323
+  },
+  {
+    "City": "Sao Paulo",
+    "YearAvg": 19.2884
+  },
+  {
+    "City": "Sapporo",
+    "YearAvg": 6.491
+  },
+  {
+    "City": "Sault Ste Marie",
+    "YearAvg": 5.0533
+  },
+  {
+    "City": "Savannah",
+    "YearAvg": 20.5166
+  },
+  {
+    "City": "Seattle",
+    "YearAvg": 11.9872
+  },
+  {
+    "City": "Seoul",
+    "YearAvg": 11.4233
+  },
+  {
+    "City": "Shanghai",
+    "YearAvg": 16.6454
+  },
+  {
+    "City": "Shenyang",
+    "YearAvg": 8.2032
+  },
+  {
+    "City": "Shreveport",
+    "YearAvg": 18.9779
+  },
+  {
+    "City": "Singapore",
+    "YearAvg": 26.8469
+  },
+  {
+    "City": "Sioux City",
+    "YearAvg": 8.265
+  },
+  {
+    "City": "Sioux Falls",
+    "YearAvg": 7.6023
+  },
+  {
+    "City": "Skopje",
+    "YearAvg": 12.3597
+  },
+  {
+    "City": "Sofia",
+    "YearAvg": 10.4076
+  },
+  {
+    "City": "South Bend",
+    "YearAvg": 9.7032
+  },
+  {
+    "City": "Spokane",
+    "YearAvg": 8.7763
+  },
+  {
+    "City": "Springfield",
+    "YearAvg": 12.7808
+  },
+  {
+    "City": "St Louis",
+    "YearAvg": 13.9017
+  },
+  {
+    "City": "Stockholm",
+    "YearAvg": 6.7667
+  },
+  {
+    "City": "Sydney",
+    "YearAvg": 13.595
+  },
+  {
+    "City": "Syracuse",
+    "YearAvg": 9.0872
+  },
+  {
+    "City": "Taipei",
+    "YearAvg": 22.6364
+  },
+  {
+    "City": "Tallahassee",
+    "YearAvg": 20.953
+  },
+  {
+    "City": "Tampa St. Petersburg",
+    "YearAvg": 23.9192
+  },
+  {
+    "City": "Tashkent",
+    "YearAvg": 15.1973
+  },
+  {
+    "City": "Tegucigalpa",
+    "YearAvg": 20.4598
+  },
+  {
+    "City": "Tirana",
+    "YearAvg": 15.2595
+  },
+  {
+    "City": "Tokyo",
+    "YearAvg": 15.66
+  },
+  {
+    "City": "Toledo",
+    "YearAvg": 11.0332
+  },
+  {
+    "City": "Topeka",
+    "YearAvg": 12.7641
+  },
+  {
+    "City": "Tucson",
+    "YearAvg": 21.1227
+  },
+  {
+    "City": "Tulsa",
+    "YearAvg": 15.9994
+  },
+  {
+    "City": "Tunis",
+    "YearAvg": 18.1502
+  },
+  {
+    "City": "Tupelo",
+    "YearAvg": 17.7301
+  },
+  {
+    "City": "Ulan-bator",
+    "YearAvg": -1.5201
+  },
+  {
+    "City": "Vienna",
+    "YearAvg": 11.0097
+  },
+  {
+    "City": "Vientiane",
+    "YearAvg": 26.2428
+  },
+  {
+    "City": "Waco",
+    "YearAvg": 18.9644
+  },
+  {
+    "City": "Warsaw",
+    "YearAvg": 9.6476
+  },
+  {
+    "City": "Washington",
+    "YearAvg": 15.5883
+  },
+  {
+    "City": "Washington DC",
+    "YearAvg": 15.5883
+  },
+  {
+    "City": "West Palm Beach",
+    "YearAvg": 25.032
+  },
+  {
+    "City": "Wichita",
+    "YearAvg": 13.8662
+  },
+  {
+    "City": "Wichita Falls",
+    "YearAvg": 17.1175
+  },
+  {
+    "City": "Wilkes Barre",
+    "YearAvg": 10.7787
+  },
+  {
+    "City": "Windhoek",
+    "YearAvg": 18.621
+  },
+  {
+    "City": "Yakima",
+    "YearAvg": 10.0857
+  },
+  {
+    "City": "Youngstown",
+    "YearAvg": 10.4855
+  },
+  {
+    "City": "Zagreb",
+    "YearAvg": 12.2222
+  },
+  {
+    "City": "Zurich",
+    "YearAvg": 9.2332
+  }
+]
