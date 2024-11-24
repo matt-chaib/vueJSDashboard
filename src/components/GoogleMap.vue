@@ -35,7 +35,7 @@ const loadGoogleMapsScript = () => {
 
     const script = document.createElement("script");
     script.id = "google-maps-script";
-    script.src = `https://maps.googleapis.com/maps/api/js?key=AIzaSyCMmcLmgk_WFZvoZ_zGCIXpyv2kJMFt7P8`;
+    script.src = `https://maps.googleapis.com/maps/api/js?key=AIzaSyDtEUyOX4GrbrrS5tYKT1jvMUWrHD43doI`;
     script.async = true;
     script.defer = true;
     script.onload = resolve;
