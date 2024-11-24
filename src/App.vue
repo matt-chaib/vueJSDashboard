@@ -20,6 +20,8 @@ import DetailedView from "./components/DetailedView.vue";
 
   <main>
     <!-- <TheWelcome /> -->
+    <h3>Click a circle to select a city.</h3>
+
     <div class="map-and-facts">
       <GoogleMap />
       <FactsPanel />
@@ -42,7 +44,11 @@ header {
 .map-and-facts {
   display: grid;
   grid-template-columns: 3fr 1fr;
-  margin: 2rem 1rem;
+  margin: 0.5rem 1rem 2rem 0rem;
+}
+
+h3 {
+    font-style: italic;
 }
 
 @media (min-width: 1024px) {
@@ -61,5 +67,13 @@ header {
     place-items: flex-start;
     flex-wrap: wrap;
   }
+}
+
+@media (max-width: 780px) {
+  .map-and-facts {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
 }
 </style>

@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div id="map" style="width: 100%; height: 500px"></div>
+    <div id="map"></div>
   </div>
 </template>
 
@@ -133,10 +133,22 @@ onMounted(() => {
 });
 </script>
 
-<style>
+<style scoped>
 /* Optional styling for the map */
 #map {
   border: 1px solid #ccc;
   border-radius: 8px;
+  height: 500px;
+  width: 100%;
+}
+
+
+@media (max-width: 780px) {
+    #map {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  height: 300px;
+  width: 300px;
+}
 }
 </style>

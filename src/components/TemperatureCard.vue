@@ -68,5 +68,22 @@
     font-size: 1.2rem;
     color: #7f8c8d;
   }
+
+  @media (max-width: 780px) {
+    .title {
+        font-size: 0.9rem;
+    }
+
+    .description {
+        font-size: 0.9rem;
+    }
+
+    .big-number {
+    font-size: 2.2rem;
+    font-weight: bold;
+    color: #2c3e50;
+  }
+  
+  }
   </style>
   
