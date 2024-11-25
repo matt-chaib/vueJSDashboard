@@ -3,17 +3,14 @@ import { defineProps, computed } from "vue";
 import { LineChart } from "vue-chart-3";
 import { Chart as ChartJS, Title, Tooltip, Legend, LineElement, PointElement, LinearScale, CategoryScale, LineController } from "chart.js";
 
-// Registering the necessary components
 ChartJS.register(Title, Tooltip, Legend, LineElement, PointElement, LineController, LinearScale, CategoryScale);
 
-// Define the prop
 const props = defineProps({
   temperatureData: Array,
   maxYearAvg: Number,
   minYearAvg: Number
 });
 
-// Compute labels for the chart
 const labels = computed(() =>
   props.temperatureData.map((entry) => `${entry.Month}/${entry.Day}`)
 );
@@ -21,8 +18,6 @@ const labels = computed(() =>
 const MaxValuesArray = computed(() => new Array(365).fill(props.maxYearAvg)); // Array with 365 elements, all set to 0
 const MinValuesArray = computed(() => new Array(365).fill(props.minYearAvg)); // Array with 365 elements, all set to 0
 
-
-// Compute dataset for the chart
 const dataset = computed(() => ({
   labels: labels.value,
   datasets: [
@@ -72,5 +67,4 @@ const options = {
 </template>
 
 <style scoped>
-/* Add styles if needed */
 </style>

@@ -1,13 +1,14 @@
-<script setup>
-</script>
+<script setup></script>
 
 <template>
   <div class="greetings">
     <h1 class="green">Capital city temperature dashboard</h1>
-    <h3>
-      Capital cities and their average temperatures in 2019.
-    </h3>
+    <h3>Capital cities and their average temperatures in 2019.</h3>
     <h3>Built using Vue.js</h3>
+    <p>
+      Data source:
+      https://www.kaggle.com/datasets/sudalairajkumar/daily-temperature-of-major-cities?resource=download
+    </p>
   </div>
 </template>
 
@@ -37,11 +38,10 @@ h3 {
 @media (max-width: 780px) {
   .greetings h1 {
     font-size: 1.5rem;
-
   }
 
   .greetings h3 {
-  font-size: 1rem;
-}
+    font-size: 1rem;
+  }
 }
 </style>
