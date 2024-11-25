@@ -135,6 +135,14 @@ onMounted(() => {
     height: 300px;
     width: 300px;
   }
+
+  .map-bottom {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  align-items: center;
+}
+
 }
 
 #map {
