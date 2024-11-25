@@ -1,6 +1,14 @@
 <template>
   <div>
     <div id="map"></div>
+    <div class="map-bottom">
+      <div id="map-legend">
+  <span>Cooler</span>
+  <div class="gradient"></div>
+  <span>Warmer</span>
+</div>
+<p class="explainer-text">Circle size corresponds to population size.</p>
+    </div>
   </div>
 </template>
 
@@ -128,4 +136,43 @@ onMounted(() => {
     width: 300px;
   }
 }
+
+#map {
+  width: 100%;
+  height: 500px;
+  position: relative;
+}
+
+#map-legend {
+  width: fit-content;
+  background: white;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  font-family: Arial, sans-serif;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  z-index: 1000; /* Ensure it appears above the map */
+}
+
+#map-legend .gradient {
+  height: 20px;
+  width: 150px;
+  background: linear-gradient(to right, blue, red);
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+#map-legend span {
+  font-size: 14px;
+  color: #333;
+}
+
+.map-bottom {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
 </style>
