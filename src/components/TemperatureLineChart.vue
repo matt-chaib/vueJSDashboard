@@ -64,8 +64,8 @@ const options = {
         size: 14, // Font size for the title
         weight: "bold", // Make it bold
       },
-      color: "#000"},   min: -10,
-    max: 50,
+      color: "#000"},   min: -80,
+    max: 60,
   },
 }};
 </script>
