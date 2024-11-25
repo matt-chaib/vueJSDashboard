@@ -55,15 +55,23 @@ const options = {
     tooltip: { enabled: true },
   },
   scales: {
-    x: { title: { display: true, text: "Day of Year" } },
-    y: { title: { display: true, text: "Temperature (°C)" },   min: -10,
+    x: { title: { display: true, text: "Day of Year",    font: {
+        size: 14, // Font size for the title
+        weight: "bold", // Make it bold
+      },
+      color: "#000" } },
+    y: { title: { display: true, text: "Temperature (°C)",    font: {
+        size: 14, // Font size for the title
+        weight: "bold", // Make it bold
+      },
+      color: "#000"},   min: -10,
     max: 50,
   },
 }};
 </script>
 
 <template>
-  <LineChart :chart-data="dataset" :chart-options="options" />
+  <LineChart :chart-data="dataset" :options="options" />
 </template>
 
 <style scoped>
